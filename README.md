@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wallets Trades Tracker<br>🌱 I’m currently learning Python, Solidity
+🔭 I’m currently working on Wallets Trades Tracker<br>🌱 I’m currently learning Python, Solidity, JavaScript
 
 
 ## 🌐 Socials:
