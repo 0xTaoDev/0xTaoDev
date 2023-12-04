@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Wallets Trades Tracker<br>🌱 I’m currently learning Python, Solidity, JavaScript
+🔭 I’m currently working on Jupiter Exchange CLI<br>🌱 I’m currently learning Python, Solidity, JavaScript
 
 
 ## 🌐 Socials:
