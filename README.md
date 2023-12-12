@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jupiter CLI<br>🌱 I’m currently learning Python, Solidity, JavaScript
+🔭 I’m currently working on Jupiter SDK Python<br>🌱 I’m currently learning Python, Solidity, JavaScript
 
 
 ## 🌐 Socials:
