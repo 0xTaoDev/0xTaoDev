@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Jupiter Python SDK<br>🌱 I’m currently learning Python, Solidity, JavaScript
+🔭 I’m currently working on Jupiter Python CLI<br>🌱 I’m currently learning Python, Solidity, JavaScript
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=0xTaoDev&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
