@@ -1,9 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on Jupiter Python CLI<br>🌱 I’m currently learning Python, Solidity, JavaScript
+🔭 I’m currently working on **Jupiter Python CLI**
+<br>
+🌱 I’m currently learning **Python, Solidity, JavaScript**
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/H3QRapcC) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TaoDev_) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/H3QRapcC) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TaoDev_)<br/>
+[![](https://visitcount.itsvg.in/api?id=0xTaoDev&icon=0&color=9)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,4 +22,4 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0xTaoDev&icon=0&color=9)](https://visitcount.itsvg.in)
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xtaodev&theme=tokyonight&hide_border=false)
