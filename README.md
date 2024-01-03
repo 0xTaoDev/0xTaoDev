@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/H3QRapcC) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TaoDev_)<br/>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QxwPGcXDp7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TaoDev_)<br/>
 [![](https://visitcount.itsvg.in/api?id=0xTaoDev&icon=0&color=9)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
