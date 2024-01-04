@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Jupiter Python CLI**
+🔭 I’m currently working on nothing
 <br>
 🌱 I’m currently learning **Python, Solidity, JavaScript**
 
