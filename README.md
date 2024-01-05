@@ -1,14 +1,23 @@
-# 💫 About Me:
+# <div align="center">💫 About Me</div>
+<div align="center">
+
 🔭 I’m currently working on nothing
 <br>
 🌱 I’m currently learning **Python, Rust, Solidity**
 
+</div>
 
-## 🌐 Socials:
+# <div align="center">🌐 Socials</div>
+<div align="center">
+  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QxwPGcXDp7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TaoDev_)<br/>
 [![](https://visitcount.itsvg.in/api?id=0xTaoDev&icon=0&color=9)](https://visitcount.itsvg.in)
 
-# 💻 Tech Stack:
+</div>
+
+# <div align="center">💻 Tech Stack</div>
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -20,11 +29,18 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 🗂️ Projects
+</div>
+
+# <div align="center">🗂️ Projects</div>
+<div align="center">
+  
 ### Python 🐍
-- **[Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker) 🔎**
-- **[Jupiter Python SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🐍🪐🧰**
-- **[Jupiter Python CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🐍🪐📟**
+**[Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker) 🔎**<br>
+**[Jupiter Python SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🐍🪐🧰**<br>
+**[Jupiter Python CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🐍🪐📟**<br>
+  
+</div>
 
 ---
-![](https://github-readme-streak-stats.herokuapp.com?user=0xtaodev&theme=highcontrast&hide_border=true)
+
+# <div align="center">![](https://github-readme-streak-stats.herokuapp.com?user=0xtaodev&theme=highcontrast&hide_border=true)</div>
