@@ -36,8 +36,8 @@
   
 ### Python 🐍
 **[Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker) 🔎**<br>
-**[Jupiter Python SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🐍🪐🧰**<br>
-**[Jupiter Python CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🐍🪐📟**<br>
+**[Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰**<br>
+**[Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟**<br>
   
 </div>
 
