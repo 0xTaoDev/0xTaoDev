@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on nothing
 <br>
-🌱 I’m currently learning **Python, Solidity, JavaScript**
+🌱 I’m currently learning **Python, Rust, Solidity**
 
 
 ## 🌐 Socials:
@@ -10,7 +10,6 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
