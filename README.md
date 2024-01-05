@@ -22,9 +22,9 @@
 
 # 🗂️ Projects
 ### Python 🐍
-- [Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker) 🔎
-- [Jupiter Python SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🐍🪐🧰
-- [Jupiter Python CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🐍🪐📟
+- **[Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker) 🔎**
+- **[Jupiter Python SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🐍🪐🧰**
+- **[Jupiter Python CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🐍🪐📟**
 
 ---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0xtaodev&theme=tokyonight&hide_border=false)
