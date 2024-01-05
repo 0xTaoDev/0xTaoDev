@@ -1,4 +1,4 @@
-# <div align="center">💫 About Me</div>
+# <div align="center">💫 About Me 💫</div>
 <div align="center">
 
 🔭 I’m currently working on nothing
@@ -7,7 +7,7 @@
 
 </div>
 
-# <div align="center">🌐 Socials</div>
+# <div align="center">🌐 Socials 🌐</div>
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QxwPGcXDp7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TaoDev_)<br/>
@@ -15,7 +15,7 @@
 
 </div>
 
-# <div align="center">💻 Tech Stack</div>
+# <div align="center">💻 Tech Stack 💻</div>
 <div align="center">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,7 +31,7 @@
 
 </div>
 
-# <div align="center">🗂️ Projects</div>
+# <div align="center">🗂️ Projects 🗂️</div>
 <div align="center">
   
 ### Python 🐍
