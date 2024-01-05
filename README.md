@@ -27,4 +27,4 @@
 - **[Jupiter Python CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🐍🪐📟**
 
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xtaodev&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com?user=0xtaodev&theme=highcontrast&hide_border=true)
