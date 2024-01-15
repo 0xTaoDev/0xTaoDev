@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner.jpg?raw=true" width="50%" height="50%">
+</div>
+
 # <div align="center">💫 About Me 💫</div>
 <div align="center">
 
