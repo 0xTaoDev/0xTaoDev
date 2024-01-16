@@ -2,7 +2,7 @@
     <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner.gif?raw=true" width="50%" height="50%">
 </div>
 
-# <div align="center">💫 About Me 💫</div>
+# <div align="center">👋 Hi, I'm TaoDev! </div>
 <div align="center">
 
 🔭 I’m currently working on nothing
