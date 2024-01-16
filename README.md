@@ -2,12 +2,18 @@
     <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner.gif?raw=true" width="50%" height="50%">
 </div>
 
-# <div align="center">👋 Hi, I'm TaoDev! </div>
 <div align="center">
 
-🔭 I’m currently working on nothing
+# 👋 Hi, I'm TaoDev!
+<img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/eva01_standing.gif?raw=true" width="7.5%" height="7.5%">
+
+</div>
+
+<div align="center">
+
+👷🏻 I’m currently building smalls projects in Rust
 <br>
-🌱 I’m currently learning **Python, Rust, Solidity**
+🌱 I'm in the process of learning **Python 🐍 Rust 🦀**
 
 </div>
 
@@ -25,13 +31,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 </div>
 
