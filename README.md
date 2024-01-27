@@ -1,27 +1,29 @@
 <div align="center">
-    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner_2.gif?raw=true" width="50%" height="50%">
+    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner_github.gif?raw=true" width="35%">
+</div>
+
+<div align="center">
+    
+### **Hi, I'm TaoDev!** 👋 
+
+</div>
+
+<div align="center">
+    
+##### I’m currently building smalls projects in Rust 👷‍♂️ <br> I'm in the process of learning *Python* 🐍 *Rust* 🦀
+
 </div>
 
 <div align="center">
 
-# 👋 Hi, I'm TaoDev!
-<img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/eva01_standing.gif?raw=true" width="7.5%" height="7.5%">
+### My socials 🌐
 
 </div>
 
 <div align="center">
 
-👷🏻 I’m currently building smalls projects in Rust
-<br>
-🌱 I'm in the process of learning **Python 🐍 Rust 🦀**
-
-</div>
-
-# <div align="center">🌐 Socials 🌐</div>
-<div align="center">
-  
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QxwPGcXDp7) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TaoDev_)<br/>
-[![](https://visitcount.itsvg.in/api?id=0xTaoDev&icon=0&color=9)](https://visitcount.itsvg.in)
+<a href="https://twitter.com/_TaoDev_"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="2.5%"/></a>
+<a href="https://discord.gg/QxwPGcXDp7"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/anthrocon-twitter-quot-discord-user-wanna-21.png" width="2.5%"/></a>
 
 </div>
 
