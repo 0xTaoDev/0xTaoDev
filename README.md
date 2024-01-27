@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### My socials 🌐
+### 🌐 My socials 🌐
 
 <a href="https://twitter.com/_TaoDev_"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="3%"/></a>
 <a href="https://discord.gg/QxwPGcXDp7"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/anthrocon-twitter-quot-discord-user-wanna-21.png" width="3%"/></a>
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Tech Stack 💻
+### 💻 Tech Stack 💻
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="3%"/>
 <br>
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-### My Projects 🗂️
+### 🗂️ My Projects 🗂️
   
 #### Python 🐍
 ###### **[Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker)🔎<br>[Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰<br>[Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟<br>Automated Airdrop Farming 🪂🤖<br>Discord Bots 👾<br>Web Scraping 🌐**
