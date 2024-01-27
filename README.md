@@ -33,23 +33,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="3%"/>
 
-
-
 </div>
 
-# <div align="center">🗂️ Projects 🗂️</div>
 <div align="center">
+
+### My Projects 🗂️
   
-### Python 🐍
-**[Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker) 🔎**<br>
-**[Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰**<br>
-**[Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟**<br>
-**Automated Airdrop Farming 🪂🤖**<br>
-**Discord Bots 👾🤖**<br>
-**Web Scraping 🌐**
+#### Python 🐍
+###### **[Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker)🔎<br>[Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰<br>[Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟<br>Automated Airdrop Farming 🪂🤖<br>Discord Bots 👾<br>Web Scraping 🌐**
 
 </div>
 
----
+<div align="center">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=0xtaodev&theme=highcontrast&hide_border=true" width="40%"/>
 
-# <div align="center">![](https://github-readme-streak-stats.herokuapp.com?user=0xtaodev&theme=highcontrast&hide_border=true)</div>
+</div>
