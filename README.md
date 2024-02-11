@@ -14,8 +14,8 @@
 
 ### 🌐 My socials 🌐
 
-<a href="https://twitter.com/_TaoDev_"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="3%"/></a>
 <a href="https://discord.gg/QxwPGcXDp7"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/anthrocon-twitter-quot-discord-user-wanna-21.png" width="3%"/></a>
+<a href="https://twitter.com/_TaoDev_"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="3%"/></a>
 
 </div>
 
@@ -26,7 +26,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="3%"/>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="3%"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="3%"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="3%"/>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="3%"/>
