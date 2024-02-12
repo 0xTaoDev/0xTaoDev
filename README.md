@@ -46,6 +46,6 @@
 
 <div align="center">
 <br>
-<img src="https://myreadme.vercel.app/api/embed/0xTaoDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" width="60%"/>
+<img src="https://myreadme.vercel.app/api/embed/0xTaoDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" width="75%"/>
 
 </div>
