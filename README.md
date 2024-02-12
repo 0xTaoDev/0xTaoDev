@@ -46,6 +46,6 @@
 
 <div align="center">
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=0xtaodev&theme=highcontrast&hide_border=true" width="40%"/>
+<img src="https://myreadme.vercel.app/api/embed/0xTaoDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" width="60%"/>
 
 </div>
