@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner_github.gif?raw=true" width="35%">
+    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner_github2.gif?raw=true" width="35%">
 </div>
 
 <div align="center">
