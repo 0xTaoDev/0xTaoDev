@@ -6,7 +6,7 @@
     
 ### **Hi, I'm TaoDev!** 👋 
     
-##### I’m currently building smalls projects in Rust 👷‍♂️ <br> I'm in the process of learning *Python* 🐍 *Rust* 🦀
+##### I’m currently building smalls projects in React 👷‍♂️ <br> I'm in the process of learning *Python* 🐍 *React* 🌐 *HTML* 📄 *CSS* 🎨 *JS* ⚡
 
 </div>
 
