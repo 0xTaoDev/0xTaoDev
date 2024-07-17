@@ -24,6 +24,9 @@
 ### 💻 Tech Stack 💻
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="3%"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="3%"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="3%"/>
+
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="3%"/>
