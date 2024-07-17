@@ -33,6 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="3%"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="3%"/>
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="3%"/>
