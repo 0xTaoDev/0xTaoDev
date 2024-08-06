@@ -23,10 +23,17 @@
 
 ### 💻 Tech Stack 💻
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="3%"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="3%"/>
+**Langages**
+<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="3%"/>
+<br>
+**Frameworks Web**
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="3%"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="3%"/>
+<br>
+**Modules**
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" width="3%"/>
@@ -34,15 +41,21 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" width="3%"/>
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="3%"/>
+<br>
+**Database**
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" width="3%"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="3%"/>
+<br>
+**Project Management**
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" width="3%"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width="3%"/>
+<br>
+**Design & Creativity**
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="3%"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="3%"/>
