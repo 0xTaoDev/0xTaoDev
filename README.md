@@ -76,7 +76,7 @@
 <div align="center">
 <br>
 <div align="center">
-    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/github_stats.svg?raw=true" width="60%">
+    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/github_stats.svg?raw=true">
 </div>
 
 </div>
