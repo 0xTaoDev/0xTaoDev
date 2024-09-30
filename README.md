@@ -75,6 +75,8 @@
 
 <div align="center">
 <br>
-<img src="https://myreadme.vercel.app/api/embed/0xTaoDev?panels=userstatistics,toprepositories,toplanguages,commitgraph" width="75%"/>
+<div align="center">
+    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/github_stats.svg?raw=true" width="60%">
+</div>
 
 </div>
