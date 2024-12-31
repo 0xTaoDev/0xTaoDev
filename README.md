@@ -15,7 +15,7 @@
 ### 🌐 My socials 🌐
 
 <a href="https://discord.gg/QxwPGcXDp7"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/anthrocon-twitter-quot-discord-user-wanna-21.png" width="3%"/></a>
-<a href="https://twitter.com/_TaoDev_"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="3%"/></a>
+<a href="https://twitter.com/0xTaoDev"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="3%"/></a>
 
 </div>
 
