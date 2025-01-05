@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner_github2.gif?raw=true" width="35%">
+    <img src="https://github.com/0xTaoDev/0xTaoDev/blob/main/banner_github1.gif?raw=true" width="35%">
 </div>
 
 <div align="center">
     
 ### **Hi, I'm TaoDev!** 👋 
     
-##### I’m currently building smalls projects in React 👷‍♂️
+##### I’m currently building a Solan Copy Trading Bot 🤖💱
 
 </div>
 
