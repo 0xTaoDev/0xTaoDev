@@ -6,7 +6,7 @@
     
 ### **Hi, I'm TaoDev!** 👋 
     
-##### I’m currently building a Solan Copy Trading Bot 🤖💱
+##### I’m currently building a Solana Copy Trading Bot 🤖💱
 
 </div>
 
