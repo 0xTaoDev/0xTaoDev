@@ -10,7 +10,6 @@
 
 </div>
 
-<br>
 
 # 🌐 Socials
 <a href="https://discord.gg/QxwPGcXDp7"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/anthrocon-twitter-quot-discord-user-wanna-21.png" width="3%"/></a>
