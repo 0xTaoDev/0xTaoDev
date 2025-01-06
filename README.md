@@ -18,11 +18,11 @@
 
 # 🗂️ My projects
 ### Python 🐍
-##### **[- Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker)🔎<br>[- Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰<br>[- Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟**<br>Discord Bots 👾<br>Web Scraping 🌐
+#### **[- Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker)🔎<br>[- Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰<br>[- Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟**<br>Discord Bots 👾<br>Web Scraping 🌐
 ### TypeScript 🖥️
-##### Solana Copy Trading Bot 🤖💱
+#### Solana Copy Trading Bot 🤖💱
 ### Web 🖥️
-##### Solana Token Creator 🤖🪙
+#### Solana Token Creator 🤖🪙
 
 # 💻 Tech Stack
 ### 🔧 Languages
