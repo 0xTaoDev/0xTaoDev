@@ -16,7 +16,7 @@
 <a href="https://twitter.com/0xTaoDev" target="_blank"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="4%"/></a>
 <a href="https://t.me/+kBRGoV2v6l5lMGZk" target="_blank"><img src="https://www.freepnglogos.com/download/21803" width="4%"/></a>
 
-# 🗂️ My projects
+# 🗂️ Projects
 ### Python 🐍
 #### **[• Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker)🔎<br>[• Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰<br>[• Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟**<br>- Discord Bots 👾<br>- Web Scraping 🌐
 ### TypeScript 🖥️
