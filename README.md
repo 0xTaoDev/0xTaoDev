@@ -19,7 +19,7 @@
 # 🗂️ Projects
 ### Python 🐍
 #### **[• Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker)🔎<br>[• Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰<br>[• Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟**<br>- Discord Bots 👾<br>- Web Scraping 🌐
-### TypeScript 🖥️
+### TypeScript 🦖
 #### - Solana Copy Trading Bot 🤖💱
 ### Web 🖥️
 #### - Solana Token Creator 🤖🪙
