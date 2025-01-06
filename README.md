@@ -12,9 +12,9 @@
 
 
 # 🌐 Socials
-<a href="https://discord.gg/QxwPGcXDp7"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/anthrocon-twitter-quot-discord-user-wanna-21.png" width="3%"/></a>
-<a href="https://twitter.com/0xTaoDev"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="3%"/></a>
-<a href="https://t.me/+kBRGoV2v6l5lMGZk"><img src="https://www.freepnglogos.com/download/21803" width="3%"/></a>
+<a href="https://discord.gg/QxwPGcXDp7" target="_blank"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/anthrocon-twitter-quot-discord-user-wanna-21.png" width="3%"/></a>
+<a href="https://twitter.com/0xTaoDev" target="_blank"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="3%"/></a>
+<a href="https://t.me/+kBRGoV2v6l5lMGZk" target="_blank"><img src="https://www.freepnglogos.com/download/21803" width="3%"/></a>
 
 # 🗂️ My projects
 ### Python 🐍
