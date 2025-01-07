@@ -17,12 +17,38 @@
 <a href="https://t.me/+kBRGoV2v6l5lMGZk" target="_blank"><img src="https://www.freepnglogos.com/download/21803" width="4%"/></a>
 
 # 🗂️ Projects
-### Python 🐍
-#### **[• Wallet Trades Tracker](https://github.com/0xTaoDev/Wallet-Trades-Tracker)🔎<br>[• Jupiter SDK](https://github.com/0xTaoDev/jupiter-python-sdk) 🪐🧰<br>[• Jupiter CLI](https://github.com/0xTaoDev/jupiter-python-cli) 🪐📟**<br>- Discord Bots 👾<br>- Web Scraping 🌐
-### TypeScript 🦖
-#### - Solana Copy Trading Bot 🤖💱
-### Web 🖥️
-#### - Solana Token Creator 🤖🪙
+<table>
+    <tr>
+        <th>Python 🐍</th>
+        <th>TypeScript 🦖</th>
+        <th>Web 🌐</th>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/0xTaoDev/Wallet-Trades-Tracker">Wallet Trades Tracker 🔎</a></td>
+        <td>Solana Copy Trading Bot 🤖💱</td>
+        <td>Solana Token Creator 🤖🪙</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/0xTaoDev/jupiter-python-sdk">Jupiter SDK 🪐🧰</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/0xTaoDev/Wallet-Trades-Tracker">Jupiter CLI 🪐📟</a></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Discord Bots 👾</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Web Scraping 🌐</td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
 
 # 💻 Tech Stack
 ### 🔧 Languages
