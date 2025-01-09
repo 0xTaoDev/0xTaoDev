@@ -26,7 +26,7 @@
     <tr>
         <td><a href="https://github.com/0xTaoDev/Wallet-Trades-Tracker">Wallet Trades Tracker 🔎</a></td>
         <td>Solana Copy Trading Bot 🤖💱</td>
-        <td>Solana Token Creator 🤖🪙</td>
+        <td>Solana Token Creator 🪙</td>
     </tr>
     <tr>
         <td><a href="https://github.com/0xTaoDev/jupiter-python-sdk">Jupiter SDK 🪐🧰</a></td>
