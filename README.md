@@ -34,7 +34,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/0xTaoDev/Wallet-Trades-Tracker">Jupiter CLI 🪐📟</a></td>
+        <td><a href="https://github.com/0xTaoDev/jupiter-python-cli">Jupiter CLI 🪐📟</a></td>
         <td></td>
         <td></td>
     </tr>
