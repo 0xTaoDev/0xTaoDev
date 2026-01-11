@@ -5,8 +5,6 @@
 <div align="center">
     
 ### **Hi, I'm TaoDev!** 👋 
-    
-##### I’m currently building a Solana Copy Trading Bot 🤖💱
 
 </div>
 
